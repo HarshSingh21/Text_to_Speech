@@ -6,6 +6,7 @@ let synth = speechSynthesis,
     isSpeaking = true;
 
 
+
 voices();
 
 function voices() {
