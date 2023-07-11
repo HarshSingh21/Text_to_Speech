@@ -3,6 +3,8 @@ const textarea = document.querySelector("textarea"),
     speechBtn = document.querySelector("button");
 
 
+
+
 let synth = speechSynthesis,
     isSpeaking = true;
 
