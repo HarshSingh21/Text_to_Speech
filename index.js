@@ -7,6 +7,8 @@ const textarea = document.querySelector("textarea"),
 
 
 
+
+
 let synth = speechSynthesis,
     isSpeaking = true;
 
